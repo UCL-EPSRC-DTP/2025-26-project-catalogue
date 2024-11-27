@@ -1,8 +1,0 @@
-# Department: **${department}**
-
-This page lists all the available projects hosted in the ${department} department.
-
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/earth-sciences)
-
-[2531ad1540](../projects/2531ad1540.md) Simulating polarisation of EM radiation in snow and ice for climate change observations via advanced remote sensing of the cryosphere
-
