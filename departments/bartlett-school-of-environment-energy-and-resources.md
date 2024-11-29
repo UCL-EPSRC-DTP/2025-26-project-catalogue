@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Bartlett School of Environment, Energy and Resources (BSEER)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Bartlett School of Environment, Energy and Resources (BSEER) department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources)
+Information about Bartlett School of Environment, Energy and Resources (BSEER) can be found on the [departmental website](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources)
 
 [2531ad1476](../projects/2531ad1476.md) A machine learning aided high-fidelity urban building modelling approach for energy-efficient, low-carbon and climate-responsive buildings
 

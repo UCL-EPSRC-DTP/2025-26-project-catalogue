@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **London Centre for Nanotechnology (LCN)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the London Centre for Nanotechnology (LCN) department.
 
-Information about ${department} can be found on the [departmental website](https://www.london-nano.com)
+Information about London Centre for Nanotechnology (LCN) can be found on the [departmental website](https://www.london-nano.com)
 
 [2531ad1547](../projects/2531ad1547.md) Link between barrier function and mechanical stress
 

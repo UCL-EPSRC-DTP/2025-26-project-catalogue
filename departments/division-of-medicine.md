@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Division of Medicine**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Division of Medicine department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/medicine)
+Information about Division of Medicine can be found on the [departmental website](https://www.ucl.ac.uk/medicine)
 
 [2531ad1522](../projects/2531ad1522.md) Development of digital twins using physics-informed deep generative learning
 

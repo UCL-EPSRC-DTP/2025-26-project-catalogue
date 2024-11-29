@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Mathematics**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Mathematics department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/maths)
+Information about Mathematics can be found on the [departmental website](https://www.ucl.ac.uk/maths)
 
 [2531ad1553](../projects/2531ad1553.md) Fluid Mechanics and Analytical Modelling for Biology and Physics
 

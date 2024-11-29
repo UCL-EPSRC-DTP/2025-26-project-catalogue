@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Electronic and Electrical Engineering (EEE)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Electronic and Electrical Engineering (EEE) department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/electronic-electrical-engineering)
+Information about Electronic and Electrical Engineering (EEE) can be found on the [departmental website](https://www.ucl.ac.uk/electronic-electrical-engineering)
 
 [2531ad1532](../projects/2531ad1532.md) Enabling Power Efficient Optical Communication through Novel Digital Signal Processing (EPIC DSP)
 

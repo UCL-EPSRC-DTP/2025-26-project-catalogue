@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Medical Physics and Biomedical Engineering**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Medical Physics and Biomedical Engineering department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/medical-physics-biomedical-engineering)
+Information about Medical Physics and Biomedical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/medical-physics-biomedical-engineering)
 
 [2531ad1564](../projects/2531ad1564.md) A Transformative Neurophysiological Assessment: Towards Improved Prognosis and Treatment of Spinal Cord Injury.
 

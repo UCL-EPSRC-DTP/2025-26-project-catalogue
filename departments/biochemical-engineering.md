@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Biochemical Engineering**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Biochemical Engineering department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/biochemical-engineering)
+Information about Biochemical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/biochemical-engineering)
 
 [2531ad1489](../projects/2531ad1489.md) Enzyme immobilisation on 3D printed scaffolds for an enhanced an more sustainable industrial biocatalysis
 

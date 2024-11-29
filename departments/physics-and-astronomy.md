@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Physics and Astronomy**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Physics and Astronomy department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/physics-astronomy)
+Information about Physics and Astronomy can be found on the [departmental website](https://www.ucl.ac.uk/physics-astronomy)
 
 [2531ad1569](../projects/2531ad1569.md) Advanced materials for next-generation spintronics: The deterministic control of altermagnets
 

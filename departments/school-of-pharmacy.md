@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **School of Pharmacy**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the School of Pharmacy department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/pharmacy)
+Information about School of Pharmacy can be found on the [departmental website](https://www.ucl.ac.uk/pharmacy)
 
 [2531ad1577](../projects/2531ad1577.md) Automated Bayesian Optimisation of Mechanochemistry
 

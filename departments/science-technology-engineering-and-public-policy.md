@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Science, Technology, Engineering and Public Policy (STEAPP)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Science, Technology, Engineering and Public Policy (STEAPP) department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/steapp)
+Information about Science, Technology, Engineering and Public Policy (STEAPP) can be found on the [departmental website](https://www.ucl.ac.uk/steapp)
 
 [2531ad1575](../projects/2531ad1575.md) Supporting policymaking with statistical emulation of complex models
 

@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Computer Science**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Computer Science department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/computer-science)
+Information about Computer Science can be found on the [departmental website](https://www.ucl.ac.uk/computer-science)
 
 [2531ad1511](../projects/2531ad1511.md) Designing Personal Informatics Systems to Support Lupus Self-Management
 

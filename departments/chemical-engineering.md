@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Chemical Engineering**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Chemical Engineering department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/chemical-engineering)
+Information about Chemical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/chemical-engineering)
 
 [2531ad1499](../projects/2531ad1499.md) A framework for fair and sustainable process supply chain planning under uncertainty
 

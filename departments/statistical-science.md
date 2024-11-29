@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Statistical Science**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Statistical Science department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/statistics)
+Information about Statistical Science can be found on the [departmental website](https://www.ucl.ac.uk/statistics)
 
 [2531ad1582](../projects/2531ad1582.md) Coordinated cross-sectoral decision making under uncertainty and risk aversion for effective decarbonisation
 

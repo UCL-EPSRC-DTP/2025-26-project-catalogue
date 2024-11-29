@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Laboratory for Molecular Cell Biology (LMCB)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Laboratory for Molecular Cell Biology (LMCB) department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/lmcb)
+Information about Laboratory for Molecular Cell Biology (LMCB) can be found on the [departmental website](https://www.ucl.ac.uk/lmcb)
 
 [2531ad1543](../projects/2531ad1543.md) An AI-informed computational platform for designing in vitro organ growth
 

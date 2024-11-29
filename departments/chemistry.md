@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Chemistry**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Chemistry department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/chemistry)
+Information about Chemistry can be found on the [departmental website](https://www.ucl.ac.uk/chemistry)
 
 [2531ad1503](../projects/2531ad1503.md) Airborne microplastics: surface chemistry and cloud-crystallisation properties
 

@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Mechanical Engineering**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Mechanical Engineering department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/mechanical-engineering)
+Information about Mechanical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/mechanical-engineering)
 
 [2531ad1559](../projects/2531ad1559.md) Advancing Surface Applications through Nanoscale Engineering in Cage-Like Materials
 

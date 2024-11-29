@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Division of Surgery and Interventional Sciences**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Division of Surgery and Interventional Sciences department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/surgery)
+Information about Division of Surgery and Interventional Sciences can be found on the [departmental website](https://www.ucl.ac.uk/surgery)
 
 [2531ad1527](../projects/2531ad1527.md) AI-Driven Neuroimaging and Robotics Integration for Personalised Rehabilitation of Phantom Limb Pain and Nerve Injuries
 

@@ -1,8 +1,8 @@
-# Department: **${department}**
+# Department: **Division of Psychology and Language Sciences (PALS)**
 
-This page lists all the available projects hosted in the ${department} department.
+This page lists all the available projects hosted in the Division of Psychology and Language Sciences (PALS) department.
 
-Information about ${department} can be found on the [departmental website](https://www.ucl.ac.uk/pals)
+Information about Division of Psychology and Language Sciences (PALS) can be found on the [departmental website](https://www.ucl.ac.uk/pals)
 
 [2531ad1525](../projects/2531ad1525.md) Advancing Human-ML Interaction
 
