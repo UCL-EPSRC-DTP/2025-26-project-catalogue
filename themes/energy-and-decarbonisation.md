@@ -4,6 +4,10 @@ This page lists all the available projects in the Energy and Decarbonisation res
 
 Information about Energy and Decarbonisation can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/energy-theme/)
 
+[2531ac1471](../projects/2531ac1471.md) Advanced Bidirectional Power Conversion System for Hybrid Energy Storage Integration and Grid Support
+
+[2531ac1473](../projects/2531ac1473.md) Optimising smart hydrogen combustion for ultra-low emission heavy-duty vehicles
+
 [2531ad1476](../projects/2531ad1476.md) A machine learning aided high-fidelity urban building modelling approach for energy-efficient, low-carbon and climate-responsive buildings
 
 [2531ad1477](../projects/2531ad1477.md) Benchmarking Environmental Building Data for Enhanced Performance and Improved Insights

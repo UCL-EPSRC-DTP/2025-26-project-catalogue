@@ -4,6 +4,14 @@ This page lists all the available projects in the Manufacturing The Future resea
 
 Information about Manufacturing The Future can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/manufacturing-the-future-theme/)
 
+[2531ac1461](../projects/2531ac1461.md) Advancing Biotherapeutics Manufacture
+
+[2531ac1462](../projects/2531ac1462.md) Characterisation, modelling and prediction of fouling behaviour in virus filtration in mAb processes
+
+[2531ac1463](../projects/2531ac1463.md) Manufacture of seaweed-derived bioplastic materials for a circular bioeconomy
+
+[2531ac1466](../projects/2531ac1466.md) Using Life Cycle Assessment and Planetary Boundaries to support decision-making in fast-moving consumer goods companies
+
 [2531ad1489](../projects/2531ad1489.md) Enzyme immobilisation on 3D printed scaffolds for an enhanced an more sustainable industrial biocatalysis
 
 [2531ad1492](../projects/2531ad1492.md) Multi-Enzyme Magnetosome-based Platform for Flow Biocatalysis

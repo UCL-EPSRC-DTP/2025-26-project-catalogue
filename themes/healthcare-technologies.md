@@ -4,6 +4,12 @@ This page lists all the available projects in the Healthcare Technologies resear
 
 Information about Healthcare Technologies can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/healthcare-technologies-theme/)
 
+[2531ac1467](../projects/2531ac1467.md) Developing a novel strategy for site-selective amide formation at C-terminal cysteines to enable the synthesis of homogeneous state-of-the-art antibody conjugates
+
+[2531ac1472](../projects/2531ac1472.md) Development of Bioengineered AI-Driven Myelin Models as a Humanised Platform for Therapeutic Screening in Longevity and Neurodegenerative Diseases
+
+[2531ac1475](../projects/2531ac1475.md) Novel statistical methodology to assess the reliability of observational data for heterogeneous treatment effect estimation
+
 [2531ad1485](../projects/2531ad1485.md) SNIFF (Smell-based Novel Investigation for Fungal Findings)
 
 [2531ad1490](../projects/2531ad1490.md) Gene therapy vector engineering for sustainable manufacture

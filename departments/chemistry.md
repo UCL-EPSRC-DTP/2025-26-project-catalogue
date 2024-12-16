@@ -4,6 +4,8 @@ This page lists all the available projects hosted in the Chemistry department.
 
 Information about Chemistry can be found on the [departmental website](https://www.ucl.ac.uk/chemistry)
 
+[2531ac1467](../projects/2531ac1467.md) Developing a novel strategy for site-selective amide formation at C-terminal cysteines to enable the synthesis of homogeneous state-of-the-art antibody conjugates
+
 [2531ad1503](../projects/2531ad1503.md) Airborne microplastics: surface chemistry and cloud-crystallisation properties
 
 [2531ad1504](../projects/2531ad1504.md) Bismuth Based Semiconductors for Photocatalytic Applications

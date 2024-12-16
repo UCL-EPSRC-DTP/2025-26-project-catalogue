@@ -4,9 +4,13 @@ This page lists all the available projects hosted in the Computer Science depart
 
 Information about Computer Science can be found on the [departmental website](https://www.ucl.ac.uk/computer-science)
 
+[2531ac1468](../projects/2531ac1468.md) Understanding Cheetah Locomotion using Inverse Reinforcement Learning
+
 [2531ad1511](../projects/2531ad1511.md) Designing Personal Informatics Systems to Support Lupus Self-Management
 
 [2531ad1512](../projects/2531ad1512.md) Designing the network of tomorrow's ML systems
+
+[2531ad1513](../projects/2531ad1513.md) Drift Forensics of Machine Learning for Malware Classification
 
 [2531ad1514](../projects/2531ad1514.md) EIGENDATA
 
