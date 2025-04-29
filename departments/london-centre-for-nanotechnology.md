@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the London Centre for Nanot
 
 Information about London Centre for Nanotechnology (LCN) can be found on the [departmental website](https://www.london-nano.com)
 
-[2531ac1470](../projects/2531ac1470.md) Atomic-Scale Quantum Science in Germanium for Scalable Quantum Technology
+**OFFER ACCEPTED** [2531ac1470](../projects/2531ac1470.md) Atomic-Scale Quantum Science in Germanium for Scalable Quantum Technology
 
 [2531ad1547](../projects/2531ad1547.md) Link between barrier function and mechanical stress
 

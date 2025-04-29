@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the Statistical Science dep
 
 Information about Statistical Science can be found on the [departmental website](https://www.ucl.ac.uk/statistics)
 
-[2531ac1475](../projects/2531ac1475.md) Novel statistical methodology to assess the reliability of observational data for heterogeneous treatment effect estimation
+**OFFER ACCEPTED** [2531ac1475](../projects/2531ac1475.md) Novel statistical methodology to assess the reliability of observational data for heterogeneous treatment effect estimation
 
 [2531ad1582](../projects/2531ad1582.md) Coordinated cross-sectoral decision making under uncertainty and risk aversion for effective decarbonisation
 

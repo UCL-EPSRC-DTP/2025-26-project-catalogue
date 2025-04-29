@@ -4,13 +4,13 @@ This page lists all the available projects hosted in the Mechanical Engineering 
 
 Information about Mechanical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/mechanical-engineering)
 
-[2531ac1471](../projects/2531ac1471.md) Advanced Bidirectional Power Conversion System for Hybrid Energy Storage Integration and Grid Support
+**WITHDRAWN** [2531ac1471](../projects/2531ac1471.md) Advanced Bidirectional Power Conversion System for Hybrid Energy Storage Integration and Grid Support
 
 [2531ac1472](../projects/2531ac1472.md) Development of Bioengineered AI-Driven Myelin Models as a Humanised Platform for Therapeutic Screening in Longevity and Neurodegenerative Diseases
 
-[2531ac1473](../projects/2531ac1473.md) Optimising smart hydrogen combustion for ultra-low emission heavy-duty vehicles
+**OFFER ACCEPTED** [2531ac1473](../projects/2531ac1473.md) Optimising smart hydrogen combustion for ultra-low emission heavy-duty vehicles
 
-[2531ad1559](../projects/2531ad1559.md) Advancing Surface Applications through Nanoscale Engineering in Cage-Like Materials
+**OFFER ACCEPTED** [2531ad1559](../projects/2531ad1559.md) Advancing Surface Applications through Nanoscale Engineering in Cage-Like Materials
 
 [2531ad1560](../projects/2531ad1560.md) Multi-fidelity high-performance solver for patient-specific treatment planning in therapeutic ultrasound
 

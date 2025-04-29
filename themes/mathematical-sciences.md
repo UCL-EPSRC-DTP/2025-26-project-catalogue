@@ -20,7 +20,7 @@ Information about Mathematical Sciences can be found on [EPSRC’s website](http
 
 [2531ad1558](../projects/2531ad1558.md) Topics in Number Theory, Algebra and Combinatorics
 
-[2531ad1575](../projects/2531ad1575.md) Supporting policymaking with statistical emulation of complex models
+**OFFER ACCEPTED** [2531ad1575](../projects/2531ad1575.md) Supporting policymaking with statistical emulation of complex models
 
 [2531ad1582](../projects/2531ad1582.md) Coordinated cross-sectoral decision making under uncertainty and risk aversion for effective decarbonisation
 

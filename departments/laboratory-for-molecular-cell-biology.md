@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the Laboratory for Molecula
 
 Information about Laboratory for Molecular Cell Biology (LMCB) can be found on the [departmental website](https://www.ucl.ac.uk/lmcb)
 
-[2531ad1543](../projects/2531ad1543.md) An AI-informed computational platform for designing in vitro organ growth
+**OFFER ACCEPTED** [2531ad1543](../projects/2531ad1543.md) An AI-informed computational platform for designing in vitro organ growth
 
 [2531ad1544](../projects/2531ad1544.md) From genes to tissue surface tension
 

@@ -6,7 +6,7 @@ Information about Chemical Engineering can be found on the [departmental website
 
 [2531ac1466](../projects/2531ac1466.md) Using Life Cycle Assessment and Planetary Boundaries to support decision-making in fast-moving consumer goods companies
 
-[2531ad1499](../projects/2531ad1499.md) A framework for fair and sustainable process supply chain planning under uncertainty
+**OFFER ACCEPTED** [2531ad1499](../projects/2531ad1499.md) A framework for fair and sustainable process supply chain planning under uncertainty
 
 [2531ad1500](../projects/2531ad1500.md) Data-Efficient and Interpretable AI for Reaction Prediction and Molecular Design
 

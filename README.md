@@ -2,6 +2,12 @@
 
 This catalogue lists all the projects available for applicants to UELA for 2025/26. [See the main website for details on how to apply.]( https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
 
+## Update for round 2:
+Round 2 is open to Home fee status candidates only.
+
+There are 2 [collaborative projects](collaborative/collaborative-projects.md) seeking candidates.
+
+There will also be up to 5 further candidates appointed to standard (non-collaborative) projects. In each section of the catalogue projects where an offer has already been made to a candidate are indicated. Any applicant who applies to one of these projects will only have their application reviewed if the candidate currently holding an offer rejects their offer by the closing date for round 2. 
 
 ## How to use the catalogue
 Each project has its own summary page. All projects have a lead UCL department shown in their summary. Some projects also have a collaborating department if they are interdisciplinary projects. Each project also has a lead supervisor shown in their summary. All students recruited to UCL will also be supported by additional members of a supervisory team - for some projects this may be detailed in the summary, for other it will be finalised after a student begins. Project summaries also contain links to the lead department's UCL webpage, so you can read more about the department, and the lead supervisor's UCL profile page (for the majority of supervisors), so you can read more about the lead supervisor.

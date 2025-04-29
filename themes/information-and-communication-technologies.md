@@ -4,7 +4,7 @@ This page lists all the available projects in the Information and Communication 
 
 Information about Information and Communication Technologies can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/information-and-communication-technologies-theme/)
 
-[2531ad1517](../projects/2531ad1517.md) Incorrectness proofs for trustworthy smart contracts
+**OFFER ACCEPTED** [2531ad1517](../projects/2531ad1517.md) Incorrectness proofs for trustworthy smart contracts
 
 [2531ad1525](../projects/2531ad1525.md) Advancing Human-ML Interaction
 

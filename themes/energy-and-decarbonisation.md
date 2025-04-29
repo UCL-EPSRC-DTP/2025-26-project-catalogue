@@ -4,9 +4,9 @@ This page lists all the available projects in the Energy and Decarbonisation res
 
 Information about Energy and Decarbonisation can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/energy-theme/)
 
-[2531ac1471](../projects/2531ac1471.md) Advanced Bidirectional Power Conversion System for Hybrid Energy Storage Integration and Grid Support
+**WITHDRAWN** [2531ac1471](../projects/2531ac1471.md) Advanced Bidirectional Power Conversion System for Hybrid Energy Storage Integration and Grid Support
 
-[2531ac1473](../projects/2531ac1473.md) Optimising smart hydrogen combustion for ultra-low emission heavy-duty vehicles
+**OFFER ACCEPTED** [2531ac1473](../projects/2531ac1473.md) Optimising smart hydrogen combustion for ultra-low emission heavy-duty vehicles
 
 [2531ad1476](../projects/2531ad1476.md) A machine learning aided high-fidelity urban building modelling approach for energy-efficient, low-carbon and climate-responsive buildings
 
@@ -16,7 +16,7 @@ Information about Energy and Decarbonisation can be found on [EPSRC’s website]
 
 [2531ad1479](../projects/2531ad1479.md) Enhancing Net-Zero Carbon Cities with Photovoltaic and Green Roof Integration for Adaptation to Extreme Climate Events
 
-[2531ad1482](../projects/2531ad1482.md) Modelling system flexibility and renewable generation surplus: A key to enable investment and achieve a Net Zero electricity system.
+**OFFER ACCEPTED** [2531ad1482](../projects/2531ad1482.md) Modelling system flexibility and renewable generation surplus: A key to enable investment and achieve a Net Zero electricity system.
 
 [2531ad1483](../projects/2531ad1483.md) Non-Destructive Testing and Hygrothermal Simulation for Sustainable Retrofit Design
 

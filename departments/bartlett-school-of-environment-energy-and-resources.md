@@ -16,7 +16,7 @@ Information about Bartlett School of Environment, Energy and Resources (BSEER) c
 
 [2531ad1481](../projects/2531ad1481.md) Investigating Acoustic Interventions to Inhibit Mould Growth in Buildings
 
-[2531ad1482](../projects/2531ad1482.md) Modelling system flexibility and renewable generation surplus: A key to enable investment and achieve a Net Zero electricity system.
+**OFFER ACCEPTED** [2531ad1482](../projects/2531ad1482.md) Modelling system flexibility and renewable generation surplus: A key to enable investment and achieve a Net Zero electricity system.
 
 [2531ad1483](../projects/2531ad1483.md) Non-Destructive Testing and Hygrothermal Simulation for Sustainable Retrofit Design
 

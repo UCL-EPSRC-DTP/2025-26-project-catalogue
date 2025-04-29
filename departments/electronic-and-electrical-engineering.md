@@ -14,5 +14,5 @@ Information about Electronic and Electrical Engineering (EEE) can be found on th
 
 [2531ad1536](../projects/2531ad1536.md) ReTouch: Advancing Bioimpedance-Controlled Prosthetics with Realistic Tactile Feedback
 
-[2531ad1537](../projects/2531ad1537.md) The Future of Memristive Technologies
+**OFFER ACCEPTED** [2531ad1537](../projects/2531ad1537.md) The Future of Memristive Technologies
 
