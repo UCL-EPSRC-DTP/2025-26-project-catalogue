@@ -24,5 +24,5 @@ Information about Computer Science can be found on the [departmental website](ht
 
 **OFFER ACCEPTED** [2531ad1519](../projects/2531ad1519.md) Synthetic Contrast MRI for Sustainable and Equal Healthcare
 
-[2531ad1520](../projects/2531ad1520.md) Towards Safer Online Spaces: Leveraging NLP and User-Centred Design to Combat Technology-Facilitated Intimate Partner Abuse
+**WITHDRAWN** [2531ad1520](../projects/2531ad1520.md) Towards Safer Online Spaces: Leveraging NLP and User-Centred Design to Combat Technology-Facilitated Intimate Partner Abuse
 
