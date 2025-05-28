@@ -8,7 +8,7 @@ Information about Division of Surgery and Interventional Sciences can be found o
 
 [2531ad1528](../projects/2531ad1528.md) AI-Guided Evolution of High-Functional Synthetic Proteins for Therapeutic Applications
 
-[2531ad1529](../projects/2531ad1529.md) Engineering a 24-Hour Movement Guidance Tool to Improve Menstrual Health and Women's Disease Risk
+**WITHDRAWN** [2531ad1529](../projects/2531ad1529.md) Engineering a 24-Hour Movement Guidance Tool to Improve Menstrual Health and Women's Disease Risk
 
 [2531ad1530](../projects/2531ad1530.md) Engineering smart urinary catheters expressing antimicrobial activity and preventing biofilm formation
 
