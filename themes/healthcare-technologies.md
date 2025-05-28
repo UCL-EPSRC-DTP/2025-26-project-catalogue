@@ -38,7 +38,7 @@ Information about Healthcare Technologies can be found on [EPSRC’s website](ht
 
 [2531ad1528](../projects/2531ad1528.md) AI-Guided Evolution of High-Functional Synthetic Proteins for Therapeutic Applications
 
-[2531ad1529](../projects/2531ad1529.md) Engineering a 24-Hour Movement Guidance Tool to Improve Menstrual Health and Women's Disease Risk
+**WITHDRAWN** [2531ad1529](../projects/2531ad1529.md) Engineering a 24-Hour Movement Guidance Tool to Improve Menstrual Health and Women's Disease Risk
 
 [2531ad1531](../projects/2531ad1531.md) Light-driven bio-robots based on bioengineered myofibers and micro-/nano-structured responsive elastomers
 
